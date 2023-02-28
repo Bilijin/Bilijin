@@ -1,8 +1,6 @@
 ### Hello World! I'm Bolaji👋
 
-- ![Visitor Count](https://profile-counter.glitch.me/{Bilijin}/count.svg)
-
-- 📫 How to reach me:</br>
+- 📫 Reach me via:</br>
                   <a href="https://linkedin.com/in/mobolajialabi">LinkedIn</a> </br>
                   <a href="mailto:alabibolaji78@gmail.com">Email</a>
 
